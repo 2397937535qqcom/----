@@ -1,0 +1,9 @@
+/model/checkpoints1
+/.ipynb_checkpoints
+/.idea
+/.vscode
+/.virtual_documents
+/paper
+/data
+/model
+/psd/*.psd
